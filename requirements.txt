@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+yfinance
+matplotlib
+scikit-learn
+plotly
+xgboost
+lightgbm
+statsmodels
+tensorflow-cpu
+openpyxl
+reportlab
